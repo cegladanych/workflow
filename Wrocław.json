@@ -1,0 +1,25 @@
+{
+	"wersja": "1.0.0",
+	"miasto": "Wrocław",
+	"dzielnice": [
+		{
+			"wejscie": "/mnt/miasta/wroclaw/Krzyki",
+			"wyjscie": "/mnt/miasta/przetworzone/wroclaw/Krzyki",
+			"dzielnica" : "Krzyki"
+			
+		},
+		{
+			"wejscie": "/mnt/miasta/wroclaw/Fabryczna",
+			"wyjscie": "/mnt/miasta/przetworzone/wroclaw/Fabryczna",
+			"dzielnica" : "Fabryczna"
+			
+		},
+		{
+			"wejscie": "/mnt/miasta/wroclaw/Śródmieście",
+			"wyjscie": "/mnt/miasta/przetworzone/wroclaw/Śródmieście",
+			"dzielnica" : "Śródmieście"
+		}
+	
+	]
+
+}

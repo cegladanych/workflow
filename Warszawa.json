@@ -1,0 +1,25 @@
+{
+	"wersja": "1.0.0",
+	"miasto": "Warszawa",
+	"dzielnice": [
+		{
+			"wejscie": "/mnt/miasta/warszawa/Mokotów",
+			"wyjscie": "/mnt/miasta/przetworzone/warszawa/Mokotów",
+			"dzielnica" : "Mokotów"
+			
+		},
+		{
+			"wejscie": "/mnt/miasta/warszawa/Ochota",
+			"wyjscie": "/mnt/miasta/przetworzone/warszawa/Ochota",
+			"dzielnica" : "Ochota"
+			
+		},
+		{
+			"wejscie": "/mnt/miasta/warszawa/Wilanów",
+			"wyjscie": "/mnt/miasta/przetworzone/warszawa/Wilanów",
+			"dzielnica" : "Wilanów"
+		}
+	
+	]
+
+}

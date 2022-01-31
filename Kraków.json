@@ -1,0 +1,25 @@
+{
+	"wersja": "1.0.0",
+	"miasto": "Kraków",
+	"dzielnice": [
+		{
+			"wejscie": "/mnt/miasta/krakow/Kazimierz",
+			"wyjscie": "/mnt/miasta/przetworzone/krakow/Kazimierz",
+			"dzielnica" : "Kazimierz"
+			
+		},
+		{
+			"wejscie": "/mnt/miasta/krakow/Łagiewniki",
+			"wyjscie": "/mnt/miasta/przetworzone/krakow/Łagiewniki",
+			"dzielnica" : "Łagiewniki"
+			
+		},
+		{
+			"wejscie": "/mnt/miasta/krakow/Dębniki",
+			"wyjscie": "/mnt/miasta/przetworzone/krakow/Dębniki",
+			"dzielnica" : "Dębniki"
+		}
+	
+	]
+
+}
